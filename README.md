@@ -1,4 +1,9 @@
 ## Oiii! Eu sou o Luiz Eduardo 👋
+🎓 Estudante de Engenharia de Software (1º período), com grande interesse em desenvolvimento de software, algoritmos e boas práticas de programação.
+Atualmente, estou construindo minha base na área, explorando conceitos fundamentais da programação — com foco especial na linguagem C e Python — e desenvolvendo o raciocínio lógico necessário para resolver problemas de forma estruturada e eficiente.
+Tenho como objetivo evoluir constantemente, transformando teoria em prática e criando soluções tecnológicas que sejam não apenas funcionais, mas também bem estruturadas e otimizadas. Acredito que disciplina, curiosidade e consistência são pilares essenciais nessa jornada.
+🚀 Em busca de aprendizado contínuo, novos desafios e oportunidades para crescer na área de tecnologia.
+#EngenhariaDeSoftware #Programação #Algoritmos #LinguagemC #Tecnologia #Desenvolvimento
 
 - 🔭 Hoje estou trabalhando com projetos pessoais e desenvolvendo a logica de programação
 - 🌱 Estudando "C e Python"
